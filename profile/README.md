@@ -1,6 +1,7 @@
-# Xyn Life Academy / Xyn生活学园
+# Chasing Light Academy / 逐光学园
 
-Welcome to XynLifeAcademy(XLA).  
-欢迎来到Xyn生活学园！  
+Welcome to The Chasing Light Academy (CLA).  
+欢迎来到逐光学园！  
 
-[入园申请](https://github.com/XynLifeAcademy/About/issues/new/choose)
+## 操作传送门：
+[入园申请](https://github.com/ChasingLightAcademy/About/issues/new/choose)
